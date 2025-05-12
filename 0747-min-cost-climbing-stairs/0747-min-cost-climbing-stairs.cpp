@@ -24,9 +24,6 @@ public:
             dp[i] = min(dp[i-1], dp[i-2]) + cost[i];
             
         }
-        for(auto it : dp){
-            cout<<it<<" ";
-        }
         return min(dp[n-2],dp[n-1]);
     }
 };
