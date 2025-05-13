@@ -19,12 +19,6 @@ public:
                         min({dp[i + 1][j - 1], dp[i + 1][j], dp[i + 1][j + 1]}) + matrix[i][j];
             }
         }
-        for (auto it : dp) {
-            for (auto it2 : it) {
-                cout << it2 << " ";
-            }
-            cout << endl;
-        }
         int ans = INT_MAX;
         for (auto it : dp[0]) {
             if (it < ans) {
