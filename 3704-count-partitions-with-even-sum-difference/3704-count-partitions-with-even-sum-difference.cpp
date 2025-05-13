@@ -7,13 +7,9 @@ public:
         for (int i = 1; i < nums.size(); i++) {
             sum_r += nums[i];
         }
-        // if ((sum_l - sum_r) % 2 == 0) {
-        //     ans++;
-        // }
         for (int i = 1; i < nums.size(); i++) {
             sum_l += nums[i];
             sum_r -= nums[i];
-            cout<<sum_l<<" "<<sum_r<<endl;
             if ((sum_l - sum_r) % 2 == 0) {
                 ans++;
             }
