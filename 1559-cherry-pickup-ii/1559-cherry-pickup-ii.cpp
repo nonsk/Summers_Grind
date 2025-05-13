@@ -3,10 +3,10 @@ public:
     int helper(int i, int j_1, int j_2, vector<vector<int>>& grid,
                vector<vector<vector<int>>>& dp) {
         int add;
-        if (i >= grid.size())
-            return 0;
         if (j_1 < 0 || j_2 < 0 || j_1 >= grid[0].size() ||
             j_2 >= grid[0].size())
+            return 0;
+        if (i >= grid.size())
             return 0;
         if (dp[i][j_1][j_2] != -1) {
             return dp[i][j_1][j_2];
