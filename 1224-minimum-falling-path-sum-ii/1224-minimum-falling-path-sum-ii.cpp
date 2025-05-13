@@ -23,12 +23,6 @@ public:
                 
             }
         }
-        for (auto it : dp) {
-            for (auto it2 : it) {
-                cout << it2 << " ";
-            }
-            cout << endl;
-        }
         int ans = INT_MAX;
         for (auto it : dp[0]) {
             if (it < ans) {
