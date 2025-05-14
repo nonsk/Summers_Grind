@@ -1,24 +1,29 @@
 class Solution {
 public:
-    int helper(int i, vector<int>& nums, vector<int>& dp) {
-        if (i >= nums.size()-1) {
-            return 0;
-        }
-        if (dp[i] != INT_MAX) {
-            return dp[i];
-        }
-        for (int j = 1; j <= nums[i]; j++) {
-            if (i + j < nums.size()) {
-                int subproblem = helper(i + j, nums, dp);
-                if (subproblem != INT_MAX) {
-                    dp[i] = min(dp[i], 1 + subproblem);
-                }
+    int jump(vector<int>& nums) {
+        int n = nums.size();
+        if (n <= 1) return 0;
+        
+        int jumps = 0;
+        int currentMax = 0;  // The furthest position that can be reached
+        int nextMax = 0;     // The furthest position that can be reached after one more jump
+        
+        // We don't need to check the last element
+        for (int i = 0; i < n - 1; i++) {
+            // Update the furthest position we can reach
+            nextMax = max(nextMax, i + nums[i]);
+            
+            // If we've reached the boundary of our current jump
+            if (i == currentMax) {
+                // Take another jump
+                jumps++;
+                currentMax = nextMax;
+                
+                // If we can already reach the end, no need to continue
+                if (currentMax >= n - 1) break;
             }
         }
-        return dp[i];
-    }
-    int jump(vector<int>& nums) {
-        vector<int> dp(nums.size() + 1, INT_MAX);
-        return helper(0, nums, dp);
+        
+        return jumps;
     }
 };
