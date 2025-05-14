@@ -1,21 +1,20 @@
 class Solution {
 public:
-    bool helper(int i, vector<int>& arr, unordered_map<int, bool>& dp,
-                unordered_set<int>& visiting) {
+    bool helper(int i, vector<int>& arr, unordered_set<int>& visiting) {
         if (visiting.count(i) > 0) {
             return false;
-        }
-        if (dp.find(i) != dp.end()) {
-            return dp[i];
         }
         if (i >= arr.size() || i < 0) {
             return false;
         }
+        if(arr[i]==0){
+            return true;
+        }
         visiting.insert(i);
-        dp[i] = helper(i + arr[i], arr, dp, visiting) ||
-                helper(i - arr[i], arr, dp, visiting);
-        visiting.erase(i);//very very important
-        return dp[i];
+        int ans = helper(i + arr[i], arr, visiting) ||
+                  helper(i - arr[i], arr, visiting);
+        visiting.erase(i); 
+        return ans;
     }
 
     bool canReach(vector<int>& arr, int start) {
@@ -26,6 +25,6 @@ public:
             }
         }
         unordered_set<int> visiting;
-        return helper(start, arr, dp, visiting);
+        return helper(start, arr, visiting);
     }
 };
