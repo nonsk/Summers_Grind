@@ -13,7 +13,7 @@ public:
         visiting.insert(i);
         int ans = helper(i + arr[i], arr, visiting) ||
                   helper(i - arr[i], arr, visiting);
-        visiting.erase(i); 
+        // visiting.erase(i); 
         return ans;
     }
 
