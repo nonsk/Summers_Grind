@@ -1,5 +1,5 @@
 class Solution {
-public:
+private:
     bool helper(int i, vector<int>& arr, vector<int>& visiting) {
         if (i >= arr.size() || i < 0 || visiting[i]) {
             return false;
@@ -8,13 +8,13 @@ public:
             return true;
         }
         visiting[i] = 1;
-        int ans = helper(i + arr[i], arr, visiting) ||
-                  helper(i - arr[i], arr, visiting);
-        return ans;
+        return helper(i + arr[i], arr, visiting) ||
+               helper(i - arr[i], arr, visiting);
     }
 
+public:
     bool canReach(vector<int>& arr, int start) {
-        vector<int> visiting(arr.size()+1,0);
+        vector<int> visiting(arr.size() + 1, 0);
         return helper(start, arr, visiting);
     }
 };
