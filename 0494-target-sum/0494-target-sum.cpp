@@ -7,7 +7,6 @@ public:
         return dfs(nums, index + 1, sum + nums[index], target) +
                dfs(nums, index + 1, sum - nums[index], target);
     }
-
     int findTargetSumWays(vector<int>& nums, int target) {
         return dfs(nums, 0, 0, target);
     }
