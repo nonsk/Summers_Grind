@@ -7,14 +7,13 @@ public:
                 cleaned += it;
             }
         }
-        //very_important
         for (auto& c : cleaned) {
             c = tolower(c);
         }
         string yo = cleaned;
         reverse(cleaned.begin(), cleaned.end());
-        for(int i =0; i<cleaned.size(); i++){
-            if(cleaned[i]!=yo[i]){
+        for (int i = 0; i < cleaned.size(); i++) {
+            if (cleaned[i] != yo[i]) {
                 return false;
             }
         }
