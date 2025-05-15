@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nonsk/Summers_Grind/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nonsk/Summers_Grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nonsk/Summers_Grind/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/nonsk/Summers_Grind/tree/master/1013-fibonacci-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/nonsk/Summers_Grind/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nonsk/Summers_Grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nonsk/Summers_Grind/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
