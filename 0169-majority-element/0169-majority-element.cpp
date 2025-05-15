@@ -2,7 +2,7 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         unordered_map<int,int> mp;
-        int ans = INT_MIN;
+        int ans = nums[0];
         int max_freq = 0;
         for(auto it : nums){
             if(mp.find(it)!=mp.end()){
@@ -16,6 +16,6 @@ public:
                 ans = it;
             }
         }
-        return (ans==INT_MIN)?nums[0]:ans;
+        return ans;
     }
 };
