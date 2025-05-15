@@ -6,17 +6,13 @@ public:
         nums[j] = temp;
     }
     void sortColors(vector<int>& nums) {
-            int z = 0;
+        int z = 0;
         for (int n = 0; n < 3; n++) {
             for (int i = 0; i < nums.size(); i++) {
                 if (nums[i] == n) {
                     swap(nums, i, z);
                     z++;
                 }
-                for(auto it : nums){
-                    cout<<it<<" ";
-                }
-                cout<<endl;
             }
         }
     }
