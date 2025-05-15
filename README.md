@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/nonsk/Summers_Grind/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nonsk/Summers_Grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nonsk/Summers_Grind/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/nonsk/Summers_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nonsk/Summers_Grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nonsk/Summers_Grind/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nonsk/Summers_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nonsk/Summers_Grind/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
