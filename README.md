@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
