@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nonsk/Summers_Grind/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/nonsk/Summers_Grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nonsk/Summers_Grind/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nonsk/Summers_Grind/tree/master/1013-fibonacci-number) |
