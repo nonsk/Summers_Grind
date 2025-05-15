@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/nonsk/Summers_Grind/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nonsk/Summers_Grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nonsk/Summers_Grind/tree/master/0213-house-robber-ii) |
@@ -127,13 +128,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
