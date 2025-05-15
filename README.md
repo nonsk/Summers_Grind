@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/nonsk/Summers_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/nonsk/Summers_Grind/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nonsk/Summers_Grind/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nonsk/Summers_Grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
