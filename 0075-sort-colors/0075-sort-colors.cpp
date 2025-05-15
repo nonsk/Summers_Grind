@@ -7,23 +7,23 @@ public:
     }
     void sortColors(vector<int>& nums) {
         int z = 0;
-            for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == 0) {
-                    swap(nums, i, z);
-                    z++;
-                }
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 0) {
+                swap(nums, i, z);
+                z++;
             }
-                        for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == 1) {
-                    swap(nums, i, z);
-                    z++;
-                }
+        }
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 1) {
+                swap(nums, i, z);
+                z++;
             }
-                        for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == 2) {
-                    swap(nums, i, z);
-                    z++;
-                }
+        }
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 2) {
+                swap(nums, i, z);
+                z++;
             }
+        }
     }
 };
