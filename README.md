@@ -65,6 +65,7 @@
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nonsk/Summers_Grind/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/nonsk/Summers_Grind/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/nonsk/Summers_Grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/nonsk/Summers_Grind/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -173,6 +175,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nonsk/Summers_Grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nonsk/Summers_Grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 ## Binary Search
