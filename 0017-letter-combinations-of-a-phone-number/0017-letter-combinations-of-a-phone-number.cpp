@@ -1,7 +1,6 @@
 class Solution {
 public:
     void f(int i, string s, vector<string>& ans, string& digits) {
-        cout << s << endl;
         if (s.size() == digits.size()) {
             ans.push_back(s);
             return;
