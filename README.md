@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nonsk/Summers_Grind/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/nonsk/Summers_Grind/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nonsk/Summers_Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nonsk/Summers_Grind/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
