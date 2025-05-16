@@ -89,6 +89,7 @@
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@
 | [0045-jump-game-ii](https://github.com/nonsk/Summers_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0283-move-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
