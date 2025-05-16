@@ -1,27 +1,22 @@
 class Solution {
 public:
-    void recur(const vector<int>& nums, int index, vector<int>& temp,
-               vector<vector<int>>& ans) {
-        if (index == nums.size()) {
-            ans.push_back(temp);
+    void sub(vector<int>& nums,vector<vector<int>>& ans,vector<int>& ds,int i){
+        if(i == nums.size()){
+            if(find(ans.begin(), ans.end(), ds) == ans.end()){
+                ans.push_back(ds);
+            }
             return;
         }
-        recur(nums, index + 1, temp, ans); // Exclude
-        temp.push_back(nums[index]);       // Include
-        recur(nums, index + 1, temp, ans);
-        temp.pop_back();                   // Backtrack
+        ds.push_back(nums[i]);
+        sub(nums, ans,ds,i+1);
+        ds.pop_back();
+        sub(nums,ans,ds,i+1);
     }
-
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
-        vector<int> temp;
-        recur(nums, 0, temp, ans);
-
-        // Remove duplicates using set
-        set<vector<int>> unique(ans.begin(), ans.end());
-
-        // Convert back to vector
-        return vector<vector<int>>(unique.begin(), unique.end());
+        vector<vector<int>>ans;
+        vector<int>ds;
+        sub(nums,ans,ds,0);
+        return ans;
     }
 };
