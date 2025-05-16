@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/nonsk/Summers_Grind/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nonsk/Summers_Grind/tree/master/2050-count-good-numbers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@
 | [0045-jump-game-ii](https://github.com/nonsk/Summers_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Combinatorics
 |  |
@@ -129,6 +131,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
