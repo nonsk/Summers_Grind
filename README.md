@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nonsk/Summers_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nonsk/Summers_Grind/tree/master/0062-unique-paths) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nonsk/Summers_Grind/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
@@ -158,6 +160,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
