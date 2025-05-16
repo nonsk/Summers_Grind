@@ -1,10 +1,6 @@
 class Solution {
 public:
     void recur(vector<int>& nums,int index, vector<int> temp, set<vector<int>> &ans){
-        for(auto it : temp){
-            cout<<it<<" ";
-        }
-        cout<<endl;
         ans.insert(temp);
         if(index>=nums.size()) return;
         recur(nums,index+1, temp, ans);
