@@ -130,6 +130,7 @@
 | [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
+| [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nonsk/Summers_Grind/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
