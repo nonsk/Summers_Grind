@@ -3,7 +3,6 @@ public:
     string removeOuterParentheses(string s) {
         int o = 0;
         int c = 0;
-        // vector<string> v;
         string temp = "";
         string ans;
         for(auto it : s){
