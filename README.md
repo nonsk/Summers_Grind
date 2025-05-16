@@ -129,6 +129,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nonsk/Summers_Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/nonsk/Summers_Grind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -174,6 +176,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nonsk/Summers_Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
