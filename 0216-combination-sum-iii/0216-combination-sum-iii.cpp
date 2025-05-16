@@ -6,12 +6,10 @@ public:
             return;
         }
         if (i > 9 || n < 0 || k < 0) return;
-
         // take
         temp.push_back(i);
         f(i + 1, temp, k - 1, n - i, ans);
         temp.pop_back();
-
         // not take
         f(i + 1, temp, k, n, ans);
     }
