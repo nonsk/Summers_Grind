@@ -1,15 +1,19 @@
 class Solution {
 public:
-    void f(int i, vector<int> &temp, int k, int n, vector<vector<int>> &ans) {
-        if (n == 0 && k == 0) {
+    void f(int i, vector<int>& temp, int k, int n, vector<vector<int>>& ans) {
+        if (k == 0 && n == 0) {
             ans.push_back(temp);
             return;
         }
-        if (i > 9 || n < 0 || k < 0) return;
+
+        // Prune early
+        if (i > 9 || k <= 0 || n <= 0) return;
+
         // take
         temp.push_back(i);
         f(i + 1, temp, k - 1, n - i, ans);
         temp.pop_back();
+
         // not take
         f(i + 1, temp, k, n, ans);
     }
