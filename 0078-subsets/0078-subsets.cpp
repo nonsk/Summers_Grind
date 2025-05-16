@@ -1,9 +1,9 @@
 class Solution {
 public:
     void recur(vector<int>& nums, int index, vector<int> temp,
-               set<vector<int>>& ans) {
+               vector<vector<int>>& ans) {
         if (index == nums.size())
-            {ans.insert(temp);
+            {ans.push_back(temp);
             return;
             }
 
@@ -13,12 +13,8 @@ public:
         temp.pop_back();
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
         recur(nums, 0, {}, ans);
-        vector<vector<int>> new_ans;
-        for (auto it : ans) {
-            new_ans.push_back(it);
-        }
-        return new_ans;
+        return ans;
     }
 };
