@@ -4,7 +4,6 @@ public:
         int ans=0;
         int yo = INT_MIN; 
         for(auto it : nums){
-            cout<<ans<<","<<yo<<endl;
             if(it==1){
                 ans +=1;
             }
