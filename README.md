@@ -127,6 +127,7 @@
 | [0022-generate-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
