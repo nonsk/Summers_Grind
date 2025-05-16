@@ -3,13 +3,13 @@ public:
     void recur(vector<int>& candidates, int index, vector<int>& temp,
                vector<vector<int>>& ans, int target, int sum) {
 
+        if (sum > target) {
+            return;
+        }
         if (index >= candidates.size()) {
             if (index == candidates.size() && sum == target) {
                 ans.push_back(temp);
             }
-            return;
-        }
-        if (sum > target) {
             return;
         }
         // not take
