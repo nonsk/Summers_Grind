@@ -1,12 +1,10 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if(s==goal) return true;
-        for(int i =0; i<s.size(); i++){
-            cout<<s<<endl;
-            char c = s[0];
-            s = s.substr(1,s.size()-1) + c;
-            if(s==goal){
+        if(s.size() != goal.size()) return false;
+        for(int i = 0; i < s.size(); i++){
+            s = s.substr(1) + s[0];
+            if(s == goal){
                 return true;
             }
         }
