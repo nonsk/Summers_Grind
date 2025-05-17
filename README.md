@@ -148,6 +148,7 @@
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
+| [0782-jewels-and-stones](https://github.com/nonsk/Summers_Grind/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
@@ -198,6 +199,7 @@
 | [0169-majority-element](https://github.com/nonsk/Summers_Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/nonsk/Summers_Grind/tree/master/0782-jewels-and-stones) |
 ## Backtracking
 |  |
 | ------- |
