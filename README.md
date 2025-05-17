@@ -152,6 +152,7 @@
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1797-goal-parser-interpretation](https://github.com/nonsk/Summers_Grind/tree/master/1797-goal-parser-interpretation) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
