@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/nonsk/Summers_Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/nonsk/Summers_Grind/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nonsk/Summers_Grind/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nonsk/Summers_Grind/tree/master/2050-count-good-numbers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -223,6 +224,7 @@
 | [0090-subsets-ii](https://github.com/nonsk/Summers_Grind/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nonsk/Summers_Grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nonsk/Summers_Grind/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
