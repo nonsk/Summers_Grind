@@ -100,6 +100,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/nonsk/Summers_Grind/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1241-decompress-run-length-encoded-list](https://github.com/nonsk/Summers_Grind/tree/master/1241-decompress-run-length-encoded-list) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
