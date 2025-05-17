@@ -103,6 +103,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/nonsk/Summers_Grind/tree/master/1241-decompress-run-length-encoded-list) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
+| [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -149,6 +150,7 @@
 | [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
+| [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
