@@ -3,7 +3,8 @@ class Solution {
 public:
     int recur(bool can, vector<int>& prices, int index, vector<vector<int>>& dp,
               int fee) {
-        if (index >= prices.size()) return 0;
+        if (index >= prices.size())
+            return 0;
         if (dp[index][can] != INT_MIN) {
             return dp[index][can];
         }
