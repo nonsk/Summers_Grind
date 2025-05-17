@@ -4,12 +4,17 @@ public:
         vector<int> mini(prices.size(), INT_MAX);
         int m = INT_MAX;
         for(int i =0; i<prices.size(); i++){
-            m = min(m,prices[i]);
+            if(prices[i]<m){
+                m = prices[i];
+            }
             mini[i] = m;
         }
         int profit = 0;
         for(int i =prices.size()-1; i>=1; i--){
-            profit = max(profit, prices[i] - mini[i-1]);
+            if(prices[i] - mini[i-1] > profit){
+                profit = prices[i] - mini[i-1];
+            }
+            
         }
         return profit;
 
