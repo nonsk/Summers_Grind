@@ -110,6 +110,7 @@
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -143,6 +144,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
+| [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 ## Depth-First Search
 |  |
 | ------- |
