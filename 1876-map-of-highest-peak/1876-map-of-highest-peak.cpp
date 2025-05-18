@@ -9,7 +9,7 @@ public:
          
         for (int i = 0; i < isWater.size(); i++) {
             for (int j = 0; j < isWater[0].size(); j++) {
-                if (isWater[i][j] == 1) {  // Changed from 0 to 1 - water cells have value 1
+                if (isWater[i][j] == 1) { 
                     ans[i][j] = 0;
                     q.push({i, j});
                     vis[i][j] = 1;
