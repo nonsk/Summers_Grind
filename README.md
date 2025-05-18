@@ -163,10 +163,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 ## Two Pointers
 |  |
@@ -247,4 +249,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
