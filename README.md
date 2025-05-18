@@ -100,6 +100,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/nonsk/Summers_Grind/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nonsk/Summers_Grind/tree/master/1241-decompress-run-length-encoded-list) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
@@ -133,6 +134,7 @@
 | [0064-minimum-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 ## Depth-First Search
 |  |
