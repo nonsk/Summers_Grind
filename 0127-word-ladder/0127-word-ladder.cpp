@@ -34,7 +34,6 @@ public:
                     if (!vis[neighbor]) {
                         q.push(neighbor);
                         vis[neighbor] = 1;
-                        cout << "pushed " << wordList[neighbor] << endl;
                     }
                 }
             }
