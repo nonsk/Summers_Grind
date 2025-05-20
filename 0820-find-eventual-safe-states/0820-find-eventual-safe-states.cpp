@@ -1,34 +1,47 @@
 class Solution {
 public:
-    // 0 = unvisited, 1 = visiting, 2 = safe
-    bool dfs(int node, vector<int>& state, vector<vector<int>>& graph) {
-        if (state[node] != 0) {
-            return state[node] == 2;
-        }
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n = graph.size();
+        vector<vector<int>> reverseGraph(n);
+        vector<int> inDegree(n, 0);
 
-        state[node] = 1; // Mark as visiting
-
-        for (int neighbor : graph[node]) {
-            if (!dfs(neighbor, state, graph)) {
-                return false; // cycle detected
+        // Build reverse graph and count in-degrees
+        for (int u = 0; u < n; ++u) {
+            for (int v : graph[u]) {
+                reverseGraph[v].push_back(u);
+                inDegree[u]++;
             }
         }
 
-        state[node] = 2; // Mark as safe
-        return true;
-    }
-
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<int> state(n, 0); // 0=unvisited, 1=visiting, 2=safe
-        vector<int> result;
-
+        queue<int> q;
+        // Start with terminal nodes (original graph)
         for (int i = 0; i < n; ++i) {
-            if (dfs(i, state, graph)) {
+            if (inDegree[i] == 0) {
+                q.push(i);
+            }
+        }
+
+        vector<bool> safe(n, false);
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            safe[node] = true;
+
+            for (int neighbor : reverseGraph[node]) {
+                inDegree[neighbor]--;
+                if (inDegree[neighbor] == 0) {
+                    q.push(neighbor);
+                }
+            }
+        }
+
+        vector<int> result;
+        for (int i = 0; i < n; ++i) {
+            if (safe[i]) {
                 result.push_back(i);
             }
         }
 
-        return result; // Already in sorted order
+        return result;
     }
 };
