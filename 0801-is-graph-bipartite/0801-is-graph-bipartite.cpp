@@ -1,44 +1,29 @@
 class Solution {
 public:
-    bool fill(unordered_set<int>& A, unordered_set<int>& B, vector<char>& vis,
-              int test, char yo, vector<vector<int>>& graph) {
-        vis[test] = yo;
-        for (int i = 0; i < vis.size(); i++) {
-            if (vis[i] == 'B') {
-                for (auto it : graph[i]) {
-                    {
-                        if (vis[it] == 'B') {
+    bool isBipartite(vector<vector<int>>& graph) {
+        vector<pair<int, int>> vis(graph.size(), {0, -1});
+        for (int start = 0; start < graph.size(); ++start) {
+            if (vis[start].first)
+                continue;
+            queue<int> q;
+            q.push(start);
+            vis[start].first = 1;
+            vis[start].second = 0;
+            while (!q.empty()) {
+                int node = q.front();
+                q.pop();
+                for (auto it : graph[node]) {
+                    if (!vis[it].first) {
+                        q.push(it);
+                        vis[it] = {1, 1 - vis[node].second};
+
+                    } else {
+                        if (vis[it].second == vis[node].second)
                             return false;
-                        }
-                        vis[it] = 'A';
-                    }
-                }
-            }
-            if (vis[i] == 'A') {
-                vis[i] = 'A';
-                for (auto it : graph[i]) {
-                    {
-                        if (vis[it] == 'A') {
-                            return false;
-                        }
-                        vis[it] = 'B';
                     }
                 }
             }
         }
         return true;
-    }
-    bool isBipartite(vector<vector<int>>& graph) {
-        unordered_set<int> A;
-        unordered_set<int> B;
-        vector<char> vis(graph.size(), -1);
-        bool ans = false;
-        for (int i = 0; i < vis.size(); i++) {
-            if (1) {
-                ans = fill(A, B, vis, i, 'A', graph) ||
-                      fill(A, B, vis, i, 'B', graph);
-            }
-        }
-        return ans;
     }
 };
