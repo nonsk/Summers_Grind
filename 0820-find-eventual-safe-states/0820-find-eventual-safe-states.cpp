@@ -5,7 +5,6 @@ public:
         vector<char> state(n, 0); // 0: unvisited, 1: visiting, 2: safe
         vector<int> result;
         result.reserve(n); // Avoid dynamic resize
-
         auto dfs = [&](int node, auto&& dfs_ref) -> bool {
             if (state[node]) return state[node] == 2;
             state[node] = 1; // visiting
@@ -17,7 +16,6 @@ public:
             result.push_back(node);
             return true;
         };
-
         for (int i = 0; i < n; ++i) dfs(i, dfs);
         sort(result.begin(), result.end()); // optional if order required
         return result;
