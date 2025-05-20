@@ -106,6 +106,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nonsk/Summers_Grind/tree/master/1241-decompress-run-length-encoded-list) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
@@ -145,6 +146,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
@@ -188,6 +190,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 ## Depth-First Search
