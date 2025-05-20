@@ -1,25 +1,25 @@
 class Solution {
 public:
-    bool dfs(int node, vector<int>& state, const vector<vector<int>>& graph) {
-        if (state[node] > 0) return state[node] == 2;
-        state[node] = 1; // Mark as visiting
-        for (int next : graph[node]) {
-            if (state[next] == 2) continue;     // Already known safe
-            if (state[next] == 1 || !dfs(next, state, graph)) return false;
-        }
-        state[node] = 2; // Mark as safe
-        return true;
-    }
     vector<int> eventualSafeNodes(const vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> state(n, 0); // 0 = unvisited
+        vector<char> state(n, 0); // 0: unvisited, 1: visiting, 2: safe
         vector<int> result;
-        result.reserve(n); // Avoid dynamic resizing
-        for (int i = 0; i < n; ++i) {
-            if (dfs(i, state, graph)) {
-                result.push_back(i);
+        result.reserve(n); // Avoid dynamic resize
+
+        auto dfs = [&](int node, auto&& dfs_ref) -> bool {
+            if (state[node]) return state[node] == 2;
+            state[node] = 1; // visiting
+            for (int nei : graph[node]) {
+                if (state[nei] == 2) continue;
+                if (state[nei] == 1 || !dfs_ref(nei, dfs_ref)) return false;
             }
-        }
+            state[node] = 2;
+            result.push_back(node);
+            return true;
+        };
+
+        for (int i = 0; i < n; ++i) dfs(i, dfs);
+        sort(result.begin(), result.end()); // optional if order required
         return result;
     }
 };
