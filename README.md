@@ -184,6 +184,7 @@
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
@@ -196,6 +197,7 @@
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 ## Two Pointers
@@ -292,4 +294,9 @@
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
