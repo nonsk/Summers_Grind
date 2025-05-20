@@ -1,23 +1,28 @@
 class Solution {
 public:
-    vector<int> eventualSafeNodes(const vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<char> state(n, 0); // 0: unvisited, 1: visiting, 2: safe
-        vector<int> result;
-        result.reserve(n); // Avoid dynamic resize
-        auto dfs = [&](int node, auto&& dfs_ref) -> bool {
-            if (state[node]) return state[node] == 2;
-            state[node] = 1; // visiting
-            for (int nei : graph[node]) {
-                if (state[nei] == 2) continue;
-                if (state[nei] == 1 || !dfs_ref(nei, dfs_ref)) return false;
+    bool dfs(int src,vector<int>&safeNodes,vector<int>&vis,vector<int>&pathVis,vector<vector<int>>& adj){
+        vis[src]=1;
+        pathVis[src]=1;
+        for(int nbr:adj[src]){
+            if(!vis[nbr]){
+                if(!dfs(nbr,safeNodes,vis,pathVis,adj)) return false;
             }
-            state[node] = 2;
-            result.push_back(node);
-            return true;
-        };
-        for (int i = 0; i < n; ++i) dfs(i, dfs);
-        sort(result.begin(), result.end()); // optional if order required
-        return result;
+            else if(pathVis[nbr]) return false;
+        }
+        safeNodes.push_back(src);
+        pathVis[src]=0;
+        return true;
+    }
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        vector<int>safeNodes;
+        int n=graph.size();
+        vector<int>vis(n,false),pathVis(n,false);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                dfs(i,safeNodes,vis,pathVis,graph);
+            }
+        }
+        sort(safeNodes.begin(),safeNodes.end());
+        return safeNodes;
     }
 };
