@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>> &ans, vector<int> temp,vector<vector<int>>& graph, int start, int &n ){
+    void dfs(vector<vector<int>> &ans, vector<int> &temp,vector<vector<int>>& graph, int start, int &n ){
         // cout<<start<<endl;
         if(start==n-1){
             ans.push_back(temp);
