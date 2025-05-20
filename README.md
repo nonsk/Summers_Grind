@@ -182,6 +182,7 @@
 | [0542-01-matrix](https://github.com/nonsk/Summers_Grind/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
@@ -195,6 +196,7 @@
 | [0130-surrounded-regions](https://github.com/nonsk/Summers_Grind/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nonsk/Summers_Grind/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
@@ -299,4 +302,12 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
