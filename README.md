@@ -112,6 +112,7 @@
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 ## Prefix Sum
@@ -192,6 +194,7 @@
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 ## Depth-First Search
 |  |
@@ -205,6 +208,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nonsk/Summers_Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +298,7 @@
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nonsk/Summers_Grind/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -309,6 +315,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
