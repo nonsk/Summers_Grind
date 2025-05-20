@@ -1,33 +1,34 @@
 class Solution {
 public:
-    bool dfs(int node, vector<int>& vis, vector<vector<int>>& graph,
-             vector<int>& recur_record, vector<int>& ans) {
-        vis[node] = true;
-        recur_record[node] = true;
-        for (auto it : graph[node]) {
-            if (!vis[it]) {
-                if (!dfs(it, vis, graph, recur_record, ans)) {
-                    return false;
-                }
-            }
-            if (recur_record[it]) {
-                return false;
+    // 0 = unvisited, 1 = visiting, 2 = safe
+    bool dfs(int node, vector<int>& state, vector<vector<int>>& graph) {
+        if (state[node] != 0) {
+            return state[node] == 2;
+        }
+
+        state[node] = 1; // Mark as visiting
+
+        for (int neighbor : graph[node]) {
+            if (!dfs(neighbor, state, graph)) {
+                return false; // cycle detected
             }
         }
-        recur_record[node] = false;
-        ans.push_back(node);
+
+        state[node] = 2; // Mark as safe
         return true;
     }
+
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        vector<int> recur_record(graph.size(), false);
-        vector<int> vis(graph.size(), false);
-        vector<int> ans;
-        for (int i = 0; i < graph.size(); i++) {
-            if (!vis[i]) {
-                dfs(i, vis, graph, recur_record, ans);
+        int n = graph.size();
+        vector<int> state(n, 0); // 0=unvisited, 1=visiting, 2=safe
+        vector<int> result;
+
+        for (int i = 0; i < n; ++i) {
+            if (dfs(i, state, graph)) {
+                result.push_back(i);
             }
         }
-        sort(ans.begin(), ans.end());
-        return ans;
+
+        return result; // Already in sorted order
     }
 };
