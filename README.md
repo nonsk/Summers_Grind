@@ -105,6 +105,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/nonsk/Summers_Grind/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/nonsk/Summers_Grind/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/nonsk/Summers_Grind/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nonsk/Summers_Grind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nonsk/Summers_Grind/tree/master/1073-number-of-enclaves) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/nonsk/Summers_Grind/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Stack
 |  |
