@@ -5,7 +5,7 @@ public:
         int r = nums.size()-1;
         int mid = (l+r)/2;
         while(l<=r){
-            cout<<l<<","<<r<<endl;
+            // cout<<l<<","<<r<<endl;
             if(target==nums[mid]){
                 return mid;
             }
