@@ -203,6 +203,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/nonsk/Summers_Grind/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/nonsk/Summers_Grind/tree/master/0207-course-schedule) |
@@ -290,6 +291,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -335,9 +337,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
