@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nonsk/Summers_Grind/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/nonsk/Summers_Grind/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nonsk/Summers_Grind/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nonsk/Summers_Grind/tree/master/0733-flood-fill) |
@@ -289,6 +290,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nonsk/Summers_Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -330,4 +332,12 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nonsk/Summers_Grind/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
