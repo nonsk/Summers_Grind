@@ -39,6 +39,7 @@
 | [0213-house-robber-ii](https://github.com/nonsk/Summers_Grind/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nonsk/Summers_Grind/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nonsk/Summers_Grind/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
@@ -98,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nonsk/Summers_Grind/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nonsk/Summers_Grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nonsk/Summers_Grind/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +132,7 @@
 | [0045-jump-game-ii](https://github.com/nonsk/Summers_Grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nonsk/Summers_Grind/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nonsk/Summers_Grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -161,6 +164,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -303,6 +307,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nonsk/Summers_Grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nonsk/Summers_Grind/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/nonsk/Summers_Grind/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 ## Stack
