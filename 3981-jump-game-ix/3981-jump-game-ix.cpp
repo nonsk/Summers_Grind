@@ -17,7 +17,7 @@ public:
             ans[i] = max_num_so_far[i];
             // If left_max > right_min, we can jump to left and ride to right part
             // And as the right values are greater or equal we prefer those
-            if (max_num_so_far[i] > shortest_ahead[i + 1]) {
+            if (ans[i] > shortest_ahead[i + 1]) {
                 ans[i] = ans[i + 1];
             }
         }
