@@ -126,6 +126,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Combinatorics
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +357,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/nonsk/Summers_Grind/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Shortest Path
 |  |
 | ------- |
