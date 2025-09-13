@@ -5,4 +5,4 @@ public:
         return fib(n-1) + fib(n-2);
     }
 };
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
+// auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
