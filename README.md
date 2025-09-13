@@ -41,6 +41,7 @@
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nonsk/Summers_Grind/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nonsk/Summers_Grind/tree/master/0518-coin-change-ii) |
@@ -103,6 +104,7 @@
 | [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nonsk/Summers_Grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nonsk/Summers_Grind/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nonsk/Summers_Grind/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nonsk/Summers_Grind/tree/master/0518-coin-change-ii) |
@@ -180,6 +182,7 @@
 | [0125-valid-palindrome](https://github.com/nonsk/Summers_Grind/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nonsk/Summers_Grind/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nonsk/Summers_Grind/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/nonsk/Summers_Grind/tree/master/0812-rotate-string) |
