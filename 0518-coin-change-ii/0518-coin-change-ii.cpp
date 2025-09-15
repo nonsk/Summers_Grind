@@ -1,25 +1,22 @@
 class Solution {
 public:
-    int helper(int T, int index, int target, vector<int>& coins,
-               vector<vector<int>>& dp) {
-        if (T == target) {
-            return 1;
-        }
-        if (T > target) {
+    vector<vector<int>> dp;
+    int recur(int index, int sum, vector<int>& coins, int &amount){
+        if(sum>amount)return 0;
+        if(index==coins.size()){
+            if(sum==amount){
+                return 1;
+            }
             return 0;
         }
-        if (index >= coins.size()) {
-            return 0;
-        }
-        if (dp[index][T] != -1) {
-            return dp[index][T];
-        }
-        dp[index][T] = helper(T + coins[index], index, target, coins, dp) +
-                       helper(T, index + 1, target, coins, dp);
-        return dp[index][T];
+        if(dp[index][sum]!=-1)return dp[index][sum]; 
+        int not_ = recur(index+1,sum, coins, amount);
+        int take = recur(index,sum + coins[index], coins, amount);
+        dp[index][sum] =  not_+take;
+        return dp[index][sum];
     }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(coins.size() + 1, vector<int>(amount + 1, -1));
-        return helper(0, 0, amount, coins, dp);
+        dp.assign(coins.size()+1, vector<int>(amount+1,-1));
+        return recur(0,0,coins,amount);
     }
 };
