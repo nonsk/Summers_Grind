@@ -52,6 +52,7 @@
 | [1013-fibonacci-number](https://github.com/nonsk/Summers_Grind/tree/master/1013-fibonacci-number) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 ## Recursion
 |  |
@@ -119,6 +120,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/nonsk/Summers_Grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/nonsk/Summers_Grind/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nonsk/Summers_Grind/tree/master/1241-decompress-run-length-encoded-list) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
@@ -140,6 +142,7 @@
 | [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -269,6 +272,7 @@
 | [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
