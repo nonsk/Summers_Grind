@@ -12,15 +12,9 @@ public:
         while(i<n && additionalRocks>=0){
             additionalRocks -= fill[i];
             if(additionalRocks<0)break;
-            cout<<additionalRocks<<' ';
             ans++;
             i++;
         }
-        cout<<endl;
-        for(int i =0; i<n; i++){
-            cout<<fill[i]<<' ';
-        }
-        // ans--;
         return ans;
 
 
