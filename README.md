@@ -126,6 +126,7 @@
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
 | [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/nonsk/Summers_Grind/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -143,6 +144,7 @@
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1829-maximum-units-on-a-truck](https://github.com/nonsk/Summers_Grind/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -273,6 +275,7 @@
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1829-maximum-units-on-a-truck](https://github.com/nonsk/Summers_Grind/tree/master/1829-maximum-units-on-a-truck) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
