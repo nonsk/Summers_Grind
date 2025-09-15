@@ -13,8 +13,8 @@ public:
         for(auto it : units){
             int index = it.second;
             if(cap + boxTypes[index][0]<=truckSize){
-                cap += boxTypes[index][0];
                 ans += boxTypes[index][0]*boxTypes[index][1];
+                cap += boxTypes[index][0];
             }
             else if (truckSize - cap>0){
                 ans += (truckSize - cap)*boxTypes[index][1];
