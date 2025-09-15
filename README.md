@@ -127,6 +127,7 @@
 | [1876-map-of-highest-peak](https://github.com/nonsk/Summers_Grind/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nonsk/Summers_Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nonsk/Summers_Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nonsk/Summers_Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
@@ -140,6 +141,7 @@
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nonsk/Summers_Grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2032-largest-odd-number-in-string](https://github.com/nonsk/Summers_Grind/tree/master/2032-largest-odd-number-in-string) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Combinatorics
@@ -267,6 +269,7 @@
 | [0242-valid-anagram](https://github.com/nonsk/Summers_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/nonsk/Summers_Grind/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Hash Table
