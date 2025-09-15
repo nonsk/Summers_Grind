@@ -8,7 +8,6 @@ public:
         }
         sort(fill, fill + n);
         int ans = 0;
-        int i = 0;
         for(int i = 0; i<n; i++){
             additionalRocks -= fill[i];
             if(additionalRocks<0)break;
