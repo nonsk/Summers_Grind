@@ -9,7 +9,7 @@ public:
         sort(fill.begin(), fill.end());
         int ans = 0;
         int i = 0;
-        while(i<n && additionalRocks>=0){
+        while(i<n){
             additionalRocks -= fill[i];
             if(additionalRocks<0)break;
             ans++;
