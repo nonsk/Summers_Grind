@@ -60,6 +60,7 @@
 | [1250-longest-common-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nonsk/Summers_Grind/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1428-jump-game-iii](https://github.com/nonsk/Summers_Grind/tree/master/1428-jump-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/nonsk/Summers_Grind/tree/master/1559-cherry-pickup-ii) |
 | [1651-shuffle-string](https://github.com/nonsk/Summers_Grind/tree/master/1651-shuffle-string) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nonsk/Summers_Grind/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/nonsk/Summers_Grind/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/nonsk/Summers_Grind/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/nonsk/Summers_Grind/tree/master/1829-maximum-units-on-a-truck) |
@@ -288,6 +290,7 @@
 | [0268-missing-number](https://github.com/nonsk/Summers_Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nonsk/Summers_Grind/tree/master/0455-assign-cookies) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nonsk/Summers_Grind/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/nonsk/Summers_Grind/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/nonsk/Summers_Grind/tree/master/1829-maximum-units-on-a-truck) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/nonsk/Summers_Grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nonsk/Summers_Grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
