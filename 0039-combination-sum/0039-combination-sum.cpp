@@ -1,31 +1,32 @@
 class Solution {
 public:
-    void recur(vector<int>& candidates, int index, vector<int>& temp,
-               vector<vector<int>>& ans, int target, int sum) {
-
-        if (sum > target) {
-            return;
-        }
-        if (index >= candidates.size()) {
-            if (index == candidates.size() && sum == target) {
+    int n;
+    int total;
+    vector<vector<int>> ans;
+    void recur(int &index, vector<int>&temp, int &sum,vector<int>& candidates){
+        if(sum>total)return;
+        if(index==n){
+            if(sum==total){
                 ans.push_back(temp);
             }
             return;
         }
-        // not take
-        recur(candidates, index + 1, temp, ans, target, sum);
-        // take
+        index++;
+        recur(index,temp,sum,candidates);
+        index--;
         temp.push_back(candidates[index]);
-        recur(candidates, index, temp, ans, target, sum + candidates[index]);
-
-        // pop
-        sum -= candidates[index];
+        sum += candidates[index];
+        recur(index,temp,sum,candidates);
         temp.pop_back();
+        sum -= candidates[index];
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
+        n = candidates.size();
+        total = target;
         vector<int> temp;
-        recur(candidates, 0, temp, ans, target, 0);
+        int sum = 0;
+        int index = 0;
+        recur(index,temp,sum,candidates);
         return ans;
     }
 };
