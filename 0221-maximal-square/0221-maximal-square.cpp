@@ -20,12 +20,6 @@ public:
                 ans = max(ans, recur(i,j,matrix));
             }
         }
-        for(int i =0; i<n; i++){
-            for(int j = 0; j<m; j++){
-                cout<<dp[i][j]<<' ';
-            }
-            cout<<endl;
-        }
         return ans*ans;
     }
 };
