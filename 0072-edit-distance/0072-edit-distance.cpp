@@ -7,8 +7,8 @@ public:
         if(j==m)return n-i;
         // transition
 
-        if(word1[i]==word2[j]) return recur(i+1,j+1,word1,word2);
         if(dp[i][j]!=-1)return dp[i][j];
+        if(word1[i]==word2[j]) return recur(i+1,j+1,word1,word2);
         //insert
         int ins = recur(i,j+1,word1,word2)+1;
         //deletion
