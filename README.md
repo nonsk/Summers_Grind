@@ -43,6 +43,7 @@
 | [0221-maximal-square](https://github.com/nonsk/Summers_Grind/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nonsk/Summers_Grind/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/nonsk/Summers_Grind/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/nonsk/Summers_Grind/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
@@ -110,6 +111,7 @@
 | [0283-move-zeroes](https://github.com/nonsk/Summers_Grind/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/nonsk/Summers_Grind/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nonsk/Summers_Grind/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/nonsk/Summers_Grind/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nonsk/Summers_Grind/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/nonsk/Summers_Grind/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/nonsk/Summers_Grind/tree/master/0410-split-array-largest-sum) |
