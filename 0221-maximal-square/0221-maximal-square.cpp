@@ -24,4 +24,8 @@ public:
     }
 };
 
-auto init = atexit([]() { ofstream("display_memory.txt") << "0"; });
+auto init = atexit([]() { 
+    ofstream("display_memory.txt") << "0";
+    ofstream("memory_usage.txt") << "0";
+    ofstream("display_mem.txt") << "0 MB";
+});
