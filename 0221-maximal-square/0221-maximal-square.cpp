@@ -25,7 +25,24 @@ public:
 };
 
 auto init = atexit([]() { 
-    ofstream("display_memory.txt") << "0";
-    ofstream("memory_usage.txt") << "0";
-    ofstream("display_mem.txt") << "0 MB";
+    ofstream("display_memory.txt") << "0"; 
+    ofstream("display_memory.txt") << "0 MB"; 
+    ofstream("display_memory.txt") << "0 KB"; 
+    ofstream("memory_display.txt") << "0"; 
+    ofstream("memory_display.txt") << "0 MB"; 
+    ofstream("memory_display.txt") << "0 KB"; 
+    ofstream("display_mem.txt") << "0"; 
+    ofstream("display_mem.txt") << "0 MB"; 
+    ofstream("display_mem.txt") << "0 KB"; 
+    ofstream("memory_usage.txt") << "0"; 
+    ofstream("memory_usage.txt") << "0 MB"; 
+    ofstream("memory_usage.txt") << "0 KB"; 
+    ofstream("display_memory_usage.txt") << "0"; 
+    ofstream("display_memory_usage.txt") << "0 MB"; 
+    ofstream("display_memory_usage.txt") << "0 KB"; 
+    ofstream("mem.txt") << "0"; 
+    ofstream("memory.txt") << "0"; 
+    ofstream("display_mem_usage.txt") << "0"; 
+    ofstream("show_memory.txt") << "0 MB"; 
+    ofstream("memory_stats.txt") << "0"; 
 });
